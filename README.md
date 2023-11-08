@@ -6,4 +6,6 @@ Step-by-step process:
   + Build an ETL process with Mage and Google Compute Instance
   + Transform the data using Python
   + Build a table using BigQuery
-  + Use the above table to create dashboards in Looker
+  + Use the above table to create dashboard in Looker
+
+Link to the dashboard: https://lookerstudio.google.com/reporting/c5159c45-e7e1-454b-aff2-4af7496566ab
