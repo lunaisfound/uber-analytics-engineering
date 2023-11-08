@@ -1,6 +1,6 @@
 # uber-analytics-engineering
 
-An end-to-end analytics engineering prohject, starting with and ETL operation and ending with building dashboards on Looker.
+## An end-to-end analytics engineering prohject, starting with and ETL operation and ending with building dashboards on Looker.
 
 - Step-by-step process: 
 + Store the raw uber data in Google Cloud Storage
